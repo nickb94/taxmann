@@ -1,0 +1,9 @@
+.group34_wrapper {
+  display: flex;
+  align-items: center;
+}
+
+.group34_wrapper div {
+  margin-right: 20px;
+  cursor: pointer;
+}

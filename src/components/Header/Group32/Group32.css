@@ -1,0 +1,41 @@
+hr {
+  height: 23px;
+  border: 1px solid #e3eaf2;
+}
+
+.group32_wrapper {
+  display: flex;
+  align-items: center;
+  width: 130px;
+  margin-left: 198px;
+}
+.dots {
+  font-family: "Futura-Medium";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 18px;
+  text-align: center;
+  color: white;
+  padding: 1px;
+  cursor: pointer;
+}
+
+.userR {
+  height: 20px;
+  width: 20px;
+  border-radius: 50%;
+  background: #25c16f;
+}
+.userE {
+  height: 20px;
+  width: 20px;
+  border-radius: 50%;
+  background: #cc4783;
+}
+.userC {
+  height: 20px;
+  width: 20px;
+  border-radius: 50%;
+  background: #8847cc;
+}

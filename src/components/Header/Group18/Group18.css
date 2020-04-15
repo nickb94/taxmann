@@ -1,0 +1,15 @@
+.group18_wrapper {
+  height: 38px;
+  width: 38px;
+  background: #f88822;
+  border-radius: 50%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+}
+.group18_wrapper div {
+  display: inline-flex;
+  margin: 2px 0px;
+}

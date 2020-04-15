@@ -1,0 +1,92 @@
+@font-face {
+  font-family: "Futura-Book";
+  src: url(./../../fonts/Futura-Book.ttf);
+  font-style: normal;
+}
+
+.group3 {
+  width: 222px;
+  height: 334px;
+  text-align: start;
+}
+
+.Rectangle {
+  width: 1440px;
+  height: 517px;
+  display: flex;
+}
+
+.column_one {
+  margin-left: 100px;
+  padding-top: 85px;
+}
+
+.column_two {
+  margin-left: 131px;
+  padding-top: 85px;
+}
+
+.column_three {
+  margin: 0px 68.67px;
+  padding-top: 85px;
+}
+
+.column_four {
+  padding-top: 85px;
+  margin-right: 24px;
+}
+
+.group14 {
+  width: 150px;
+  height: 169px;
+}
+
+.group15copy3 {
+  margin-top: 35px;
+}
+
+.group16copy3 {
+  margin-top: 35px;
+}
+
+.column_five {
+  padding-top: 85px;
+}
+
+.group17 {
+  margin-top: 35px;
+}
+
+.heading {
+  font-family: "Futura-Book";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 12px;
+  line-height: 15px;
+  display: flex;
+  align-items: center;
+  letter-spacing: 0.3px;
+  color: #4b4b4b;
+}
+
+.ul {
+  text-decoration: none;
+  padding: 0;
+}
+
+.ul li {
+  list-style-type: none;
+  font-family: "Futura-Book";
+  font-style: normal;
+  font-weight: normal;
+  font-size: 12px;
+  line-height: 24px;
+  display: flex;
+  align-items: center;
+  letter-spacing: 0.3px;
+  color: #4a4a4a;
+}
+
+a {
+  text-decoration: none;
+}

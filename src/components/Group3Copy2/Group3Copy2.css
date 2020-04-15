@@ -1,0 +1,60 @@
+@font-face {
+  font-family: "Futura-Book";
+  src: url(./../../fonts/Futura-Book.ttf);
+  font-style: normal;
+}
+
+.usp_content p {
+  font-family: "Futura-Book";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 20px;
+  letter-spacing: 0.416667px;
+  color: #4b4b4b;
+  margin: 4px 0px;
+  width: 146px;
+}
+
+.usp_content > div {
+  text-align: start;
+}
+
+.flex_usp {
+  display: flex;
+  margin-bottom: 20px;
+}
+.bottom {
+  margin-bottom: 0px;
+}
+
+.group3copy2 {
+  width: 328px;
+  height: 313px;
+  background: white;
+  margin-top: 47px;
+  flex-shrink: 0;
+  padding: 32px 0px 28px 59px;
+  border-radius: 5px;
+  border-left: 2px solid #eaecf0;
+}
+
+.usp_content {
+  font-family: "Futura-Book";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 20px;
+  line-height: 24px;
+  text-align: center;
+  letter-spacing: 0.555556px;
+  color: #000000;
+}
+
+.usp_icon {
+  margin-right: 15px;
+  margin-top: 6px;
+}
+
+.usp_icon div div {
+  display: inline;
+}

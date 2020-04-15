@@ -1,0 +1,41 @@
+@font-face {
+  font-family: "Futura-Book";
+  src: url(./../../../fonts/Futura-Book.ttf);
+  font-style: normal;
+}
+
+.footer_text {
+  margin-top: 26px;
+  margin-bottom: 30px;
+  font-family: "Futura-Book";
+  font-style: normal;
+  font-weight: normal;
+  font-size: 12px;
+  line-height: 25px;
+  display: flex;
+  align-items: center;
+  letter-spacing: 0.3px;
+  text-align: start;
+  color: #4a4a4a;
+}
+
+.about_para {
+  margin: 0px;
+}
+
+.applinks {
+  display: flex;
+  justify-content: space-between;
+}
+
+.copyright {
+  font-family: "Futura-Book";
+  font-style: normal;
+  font-weight: normal;
+  font-size: 11px;
+  line-height: 25px;
+  display: flex;
+  align-items: center;
+  letter-spacing: 0.3px;
+  color: #4a4a4a;
+}

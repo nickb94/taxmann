@@ -1,0 +1,64 @@
+.offercopy_heading {
+  font-family: "Futura-Book";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 20px;
+  line-height: 30px;
+  display: flex;
+  align-items: center;
+  letter-spacing: 0.3px;
+  color: #000000;
+  width: 142px;
+  height: 19px;
+  margin: 50px 152px 35px 33px;
+}
+
+.list_heading {
+  font-family: "Futura-Book";
+  font-style: normal;
+  font-weight: normal;
+  font-size: 28px;
+  line-height: 36px;
+  display: flex;
+  align-items: center;
+  letter-spacing: 0.25px;
+  color: #000000;
+  width: 200px;
+  text-align: start;
+  margin: 30px 55px 10px 31.36px;
+}
+
+.list_subheading {
+  font-family: "Futura-Book";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 21px;
+  display: flex;
+  align-items: center;
+  letter-spacing: 0.24px;
+  color: #4b4b4b;
+  text-align: start;
+  margin: 0px 25px 19px 29px;
+}
+
+.underline_btn {
+  width: 93.08px;
+  height: 20.2px;
+  margin: 0px 136.81px 42.8px 29.11px;
+}
+
+.offercopy_image {
+  width: 258px;
+  border-radius: 5px 5px 0 0;
+}
+
+.offerwrapper {
+  width: 259px;
+  height: 399px;
+  background: #ffffff;
+  border: 1px solid #e3eaf2;
+  box-shadow: 0px 2px 6px rgba(0, 0, 0, 0.12);
+  border-radius: 5px;
+  margin: 35px 35px 50px 33px;
+}

@@ -1,0 +1,50 @@
+.categories_wrapper {
+  width: 887px;
+  height: 3875px;
+  background: #ffffff;
+  display: flex;
+  flex-direction: column;
+}
+
+.group6 {
+  width: 810px;
+  height: 30px;
+  margin: 9px 42px 50px 35px;
+}
+
+.flex_bar {
+  display: flex;
+  width: 810px;
+  height: 30px;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.category_group {
+  display: flex;
+  align-items: center;
+}
+
+.category_label {
+  font-family: "Futura-Book";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 20px;
+  line-height: 30px;
+  display: flex;
+  align-items: center;
+  letter-spacing: 0.3px;
+  color: #000000;
+}
+
+.recommended_arrow {
+  margin-left: 19px;
+}
+
+.ruler {
+  width: 811px;
+  height: 2px;
+  background: #ffffff;
+  border: 1px solid #e3eaf2;
+  margin: 27px 42px 50px 35px;
+}

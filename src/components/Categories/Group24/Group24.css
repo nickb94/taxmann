@@ -1,0 +1,8 @@
+.product_wrapper {
+  width: 810px;
+  height: 1049px;
+  margin: 0px 42px 50px 35px;
+  display: grid;
+  grid-gap: 68px 45px;
+  grid-template-columns: repeat(auto-fill, minmax(240px, 0fr));
+}
