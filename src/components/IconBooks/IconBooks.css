@@ -1,0 +1,34 @@
+.open_icon_books{
+    display: flex;
+    margin: 15px 81px 0px 25px;
+    width: 150px;
+}
+
+.ul_group58 {
+  list-style-type: none;
+  text-align: start;
+  font-family: "Futura-Book";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 12px;
+  line-height: 18px;
+  letter-spacing: 0.291667px;
+  color: #4b4b4b;
+  padding-left: 55px;
+  animation: fadeIn 1s;
+}
+
+@keyframes fadeIn{
+  from{
+    opacity: 0;
+  }
+  to{
+    opacity: 1;
+  }
+}
+
+.ul_group58 li {
+  font-size: 13px;
+  letter-spacing: 0.3px;
+  margin: 15px 15px 15px 0px;
+}
